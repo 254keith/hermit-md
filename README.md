@@ -1,4 +1,4 @@
-#### HERMIT MD WHATSAPP BOT
+#### KEITH MD WHATSAPP BOT
 Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
